@@ -19,7 +19,6 @@ public class Main {
 
 
         //Zadatak 2. Korištenjem petlje do while izračunaj zbroj brojeva od 1 do 1000 djeljivih sa 7
-
         int i = 1;
         int sum = 0;
 
